@@ -1,1 +1,1 @@
-web: gunicorn example-data-api:app
+web: gunicorn example-data-football:app
