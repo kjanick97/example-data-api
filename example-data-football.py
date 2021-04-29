@@ -28,7 +28,7 @@ def getData():
         ("goalkeeper", 91, 28, False, "Jan Oblak", "Male"),
         ("striker", 93, 35, False, "Megan Rapinoe", "Female"),
         ("striker", 90, 31, False, "Alex Morgan", "Female"),
-        ("defender", 92, 30, False, "Alex Morgan", "Female")
+        ("defender", 92, 30, False, "Wendie Renard", "Female")
     ]
     
     json_data = json.dumps(footballplayers)
