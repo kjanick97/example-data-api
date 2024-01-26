@@ -1,1 +1,0 @@
-web: gunicorn example-data-football:app
